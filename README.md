@@ -16,3 +16,5 @@
 8.[ASSIGNMENT-8](https://github.com/Sreeheeradarna/AIML-B_20/blob/main/Assignment_8.ipynb)
 
 9.[ASSIGNMENT-9](https://github.com/Sreeheeradarna/AIML-B_20/blob/main/Assignment_9.ipynb)
+
+10.[ASSIGNMENT-10](https://github.com/Sreeheeradarna/AIML-B_20/blob/main/Assignment_10.ipynb)
